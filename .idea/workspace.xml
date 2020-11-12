@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1f58344-20f4-45bf-8845-bedb86985067" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/atmyuan/javabase/common/DateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/atmyuan/javabase/common/EnumDome1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/atmyuan/javabase/common/EnumDome2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/atmyuan/javabase/common/EnumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/com/atmyuan/javabase/common/ListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/atmyuan/javabase/common/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/atmyuan/javabase/common/ListTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +56,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -125,7 +119,16 @@
       <workItem from="1604814485544" duration="4931000" />
       <workItem from="1604886658083" duration="14000" />
       <workItem from="1604971117102" duration="9173000" />
+      <workItem from="1605169337849" duration="2642000" />
     </task>
+    <task id="LOCAL-00001" summary="Date Enum 类练习">
+      <created>1605169421990</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605169421990</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,5 +146,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Date Enum 类练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="Date Enum 类练习" />
   </component>
 </project>

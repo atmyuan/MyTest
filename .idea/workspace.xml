@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1f58344-20f4-45bf-8845-bedb86985067" name="Default Changelist" comment="" />
+    <list default="true" id="e1f58344-20f4-45bf-8845-bedb86985067" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/atmyuan/javabase/common/DateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/atmyuan/javabase/common/EnumDome1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/atmyuan/javabase/common/EnumDome2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/atmyuan/javabase/common/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/com/atmyuan/javabase/common/ListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,11 +40,17 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jigK4UrbddQgInsPhu5r58rxCw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Study/code/algorithmbasic2020" />
@@ -61,6 +76,40 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.EnumTest">
+    <configuration name="DateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.com.atmyuan.javabase.common.DateTest" />
+      <module name="javase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.com.atmyuan.javabase.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.com.atmyuan.javabase.common.EnumTest" />
+      <module name="javase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.com.atmyuan.javabase.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EnumTest" />
+        <item itemvalue="Application.DateTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -73,11 +122,26 @@
       <updated>1604292258390</updated>
       <workItem from="1604292261841" duration="777000" />
       <workItem from="1604656499349" duration="1575000" />
-      <workItem from="1604814485544" duration="3784000" />
+      <workItem from="1604814485544" duration="4931000" />
+      <workItem from="1604886658083" duration="14000" />
+      <workItem from="1604971117102" duration="9173000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
